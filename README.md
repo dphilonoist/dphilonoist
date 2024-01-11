@@ -1,6 +1,6 @@
-<!-- ![Lakshmanan Meiyappan Banner Image](./banner.png) -->
+![Dushyant Banner Image](./banner.jpg)
 <h2 align='center'>Dushyant Sharma</h2>
-<p align='center'><b>Sr. Web Developer</b></p> -->
+<p align='center'><b>Sr. Web Developer</b></p>
 
 <h2>Hey! 👋</h2>
 
