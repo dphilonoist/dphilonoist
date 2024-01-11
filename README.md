@@ -56,3 +56,6 @@ I'm a Graduate Student living in Jaipur, India. Outside Tech, I love to read, en
 <h2>📫 How to reach me:</h2>
 
 <a href="mailto:dushyant.khsolstomer@gmail.com">![dushyant.khsolstomer@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/dushyant-sharma.2a15a518a/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
+<!-- daily.dev BOOKMARKS:START -->
+<!-- daily.dev BOOKMARKS:END -->
