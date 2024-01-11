@@ -58,4 +58,9 @@ I'm a Graduate Student living in Jaipur, India. Outside Tech, I love to read, en
 <a href="mailto:dushyant.khsolstomer@gmail.com">![dushyant.khsolstomer@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/dushyant-sharma.2a15a518a/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 <!-- daily.dev BOOKMARKS:START -->
+- [The Struggles of a Young Developer](https://app.daily.dev/posts/09dsUhRue?utm_source=rss&utm_medium=bookmarks&utm_campaign=q9Phl4j2g2jFaoBwLMseO)
+- [A Programmer Presents a Mind-Blowing Multi-Window Adaptive Experience](https://app.daily.dev/posts/oKlQxUNjD?utm_source=rss&utm_medium=bookmarks&utm_campaign=q9Phl4j2g2jFaoBwLMseO)
+- [Resources I wish I knew when I started my career](https://app.daily.dev/posts/JGcJD4klu?utm_source=rss&utm_medium=bookmarks&utm_campaign=q9Phl4j2g2jFaoBwLMseO)
+- [Why You Want React Query](https://app.daily.dev/posts/fl9h64Iws?utm_source=rss&utm_medium=bookmarks&utm_campaign=q9Phl4j2g2jFaoBwLMseO)
+- [How to Use React Suspense to Improve your React Projects](https://app.daily.dev/posts/2pJX03wPJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=q9Phl4j2g2jFaoBwLMseO)
 <!-- daily.dev BOOKMARKS:END -->
