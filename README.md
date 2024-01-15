@@ -60,9 +60,9 @@ I'm a Graduate Student living in Jaipur, India. Outside Tech, I love to read, en
 <h2> Last I read about:</h2>
 
 <!-- daily.dev BOOKMARKS:START -->
+- [79 Engineering Blogs To Level Up Your System Design Skills](https://app.daily.dev/posts/zEpcbtOym?utm_source=rss&utm_medium=bookmarks&utm_campaign=q9Phl4j2g2jFaoBwLMseO)
 - [The Struggles of a Young Developer](https://app.daily.dev/posts/09dsUhRue?utm_source=rss&utm_medium=bookmarks&utm_campaign=q9Phl4j2g2jFaoBwLMseO)
 - [A Programmer Presents a Mind-Blowing Multi-Window Adaptive Experience](https://app.daily.dev/posts/oKlQxUNjD?utm_source=rss&utm_medium=bookmarks&utm_campaign=q9Phl4j2g2jFaoBwLMseO)
 - [Resources I wish I knew when I started my career](https://app.daily.dev/posts/JGcJD4klu?utm_source=rss&utm_medium=bookmarks&utm_campaign=q9Phl4j2g2jFaoBwLMseO)
 - [Why You Want React Query](https://app.daily.dev/posts/fl9h64Iws?utm_source=rss&utm_medium=bookmarks&utm_campaign=q9Phl4j2g2jFaoBwLMseO)
-- [How to Use React Suspense to Improve your React Projects](https://app.daily.dev/posts/2pJX03wPJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=q9Phl4j2g2jFaoBwLMseO)
 <!-- daily.dev BOOKMARKS:END -->
